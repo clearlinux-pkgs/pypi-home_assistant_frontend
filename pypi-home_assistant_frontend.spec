@@ -4,7 +4,7 @@
 #
 Name     : pypi-home_assistant_frontend
 Version  : 20220202.0
-Release  : 286
+Release  : 287
 URL      : https://files.pythonhosted.org/packages/15/5a/b2710790530e7a63d3db3e2d062cd9cd87a6cc7ee11dedba3ff2cb73ec45/home-assistant-frontend-20220202.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/15/5a/b2710790530e7a63d3db3e2d062cd9cd87a6cc7ee11dedba3ff2cb73ec45/home-assistant-frontend-20220202.0.tar.gz
 Summary  : The Home Assistant frontend
